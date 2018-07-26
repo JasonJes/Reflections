@@ -28,6 +28,8 @@ i think its really helpfull to dothose diagrams because i can check them out and
 
 
 What is the result of merging two branches together?
+to have the one file that i want and a final version of different test or versions 
+
  Why do we represent it in
 the diagram the way we do?
 
