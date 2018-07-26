@@ -24,6 +24,9 @@ How would branches help?
 How do the diagrams help you visualize the branch structure?
 
 
+i think its really helpfull to dothose diagrams because i can check them out and realize about what im doing on a better way
+
+
 What is the result of merging two branches together?
  Why do we represent it in
 the diagram the way we do?
