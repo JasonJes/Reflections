@@ -34,5 +34,8 @@ to have the one file that i want and a final version of different test or versio
 the diagram the way we do?
 
 
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+i think its really usefull that git does what it can and let the developer to chose the changes when its necesary so it doesnt have problems
